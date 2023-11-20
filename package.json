@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-13/",
+    "build": "vite build --base=/js_92_Darjetii-Dooku/",
     "preview": "vite preview"
   },
   "devDependencies": {
